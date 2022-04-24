@@ -45,3 +45,12 @@ ROC AUC: 0.9800934433250592
 ```
 
 ![](./Verification/Celeb-A2-AUC.jpg)
+
+
+## 4. Grad-CAM
+
+Visualization the model results.
+
+| image | Grad-CAM | Part Score | Edge |
+| - | - | - | - |
+| ![](Grad-CAM/image/image.jpg) | ![](Grad-CAM/image/saliency.jpg) | ![](Grad-CAM/image/PartScore.jpg) | ![](Grad-CAM/image/Edge.jpg) |

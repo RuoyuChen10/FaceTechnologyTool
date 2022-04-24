@@ -25,10 +25,10 @@ def parse_args():
     parser = argparse.ArgumentParser(description='Train paramters.')
     # general
     parser.add_argument('--dataset-root', type=str,
-                        default='../VGGFace2/Img',
+                        default='image',
                         help='')
     parser.add_argument('--data-list', type=str,
-                        default='../VGGFace2/label.txt',
+                        default='label.txt',
                         help='')
     parser.add_argument('--num-classes', type=int,
                         default = 8631,
@@ -39,11 +39,11 @@ def parse_args():
                         choices=['resnet50','resnet100'],
                         help='')
     parser.add_argument('--pre-trained', type=str,
-                        default = "../VGGFace2/pretrained/ArcFace-r50-8631.pth",
+                        default = "ckpt/ArcFace-r50-8631.pth",
                         # default = "../CelebA/pretrained/ArcFace-r50-10177.pth",
                         help='')
     parser.add_argument('--seg-pre-trained', type=str,
-                        default = "/exdata2/RuoyuChen/Datasets/FaceV/Grad-CAM/ckpt/FaceParser.ckpt",
+                        default = "ckpt/FaceParser.ckpt",
                         help='')
     parser.add_argument('--device', type=str,
                         default='cuda',
