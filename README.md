@@ -54,3 +54,7 @@ Visualization the model results.
 | image | Grad-CAM | Part Score | Edge |
 | - | - | - | - |
 | ![](Grad-CAM/image/image.jpg) | ![](Grad-CAM/image/saliency.jpg) | ![](Grad-CAM/image/PartScore.jpg) | ![](Grad-CAM/image/Edge.jpg) |
+
+## 5. Segmentation
+
+![](./FaceSegmentation/images/mask_image.jpg)
