@@ -9,6 +9,9 @@ Usage:
 ```python
 from AttributeNet import AttributeNet
 
+import cv2
+import numpy as np
+
 image_path = "./face.jpg"
 ckpt_path = "./Face-Attributes2.pth"
 desired_attribute = ["Male","Female","Young","Middle Aged","Senior","Asian","White","Black"]
