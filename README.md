@@ -9,7 +9,7 @@ Note that this is not the most optimal or state-of-art demo.
 
 ## Security
 
-[![Security Status](https://www.murphysec.com/platform3/v3/badge/1611677694740168704.svg?t=1)](https://www.murphysec.com/accept?code=57f251056a8e7c8b5ce36469616a681d&type=1&from=2&t=2)
+[![Security Status](https://v3-hkylzjk.murphysec.com/platform3/v3/badge/1611677694740168704.svg)](https://www.murphysec.com/accept?code=57f251056a8e7c8b5ce36469616a681d&type=1&from=2&t=2)
 
 ## 1. Average Face
 
