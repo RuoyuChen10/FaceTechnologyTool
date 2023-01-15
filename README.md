@@ -1,8 +1,15 @@
 # Face Technology Tool
 
+![Python 3.8](https://img.shields.io/badge/python-3.8-green.svg?style=plastic)
+![Pytorch 1.7.1](https://img.shields.io/badge/pytorch-1.7.1-green.svg?style=plastic)
+
 A collection of code commonly used to process face technology.
 
 Note that this is not the most optimal or state-of-art demo.
+
+## Security
+
+[![Security Status](https://www.murphysec.com/platform3/v3/badge/1611677694740168704.svg?t=1)](https://www.murphysec.com/accept?code=57f251056a8e7c8b5ce36469616a681d&type=1&from=2&t=2)
 
 ## 1. Average Face
 
