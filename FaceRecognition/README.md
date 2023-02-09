@@ -6,6 +6,14 @@ I highly recommend the insightFace project: [https://github.com/deepinsight/insi
 
 Here I only provide a set of simple implementation, trying to explain the general face recognition algorithm training process.
 
+## 0. Download
+
+Please download the fold `pretrained`
+
+BaiduYunPan: [https://pan.baidu.com/s/1DmZLydjb3ARQSVUmndnbGA](https://pan.baidu.com/s/1DmZLydjb3ARQSVUmndnbGA)
+
+Extract Code: waak
+
 ## 1. What's face recognition?
 
 Face recognition tasks are similar to classification tasks. When give you a face, the face recognition network need to recognize the identity of the face ID.
